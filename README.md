@@ -1,0 +1,1 @@
+This code provides an example of taking custom data from Salesforce.com and displaying it on a Google Map.  This code also handles multiple records at the same location and uses an InfoBox to display the information.  For a detailed explnation of the code read this blog article <a href="http://kalho13.blogspot.com/2014/09/google-maps-displaying-custom.html">Blog Article</a>
