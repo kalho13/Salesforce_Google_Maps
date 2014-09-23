@@ -1,4 +1,4 @@
-<apex:page controller="customController" showHeader="false"  standardStylesheets="false">
+<apex:page controller="customMapController" showHeader="false"  standardStylesheets="false">
 <head>
 
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
